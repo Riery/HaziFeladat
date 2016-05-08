@@ -1,0 +1,6 @@
+C:\Users\Riery\Desktop\C#\3.Feladat\3.Feladat\bin\Debug\3.Feladat.exe.config
+C:\Users\Riery\Desktop\C#\3.Feladat\3.Feladat\bin\Debug\3.Feladat.exe
+C:\Users\Riery\Desktop\C#\3.Feladat\3.Feladat\bin\Debug\3.Feladat.pdb
+C:\Users\Riery\Desktop\C#\3.Feladat\3.Feladat\obj\Debug\3.Feladat.exe
+C:\Users\Riery\Desktop\C#\3.Feladat\3.Feladat\obj\Debug\3.Feladat.pdb
+C:\Users\Riery\Desktop\C#\3.Feladat\3.Feladat\obj\Debug\3.Feladat.csprojResolveAssemblyReference.cache
